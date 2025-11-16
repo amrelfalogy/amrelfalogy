@@ -1,6 +1,6 @@
 # Hi there, I'm Amr Elfalogy 👋 
 
-![Header](https://github.com/johndoe/johndoe/raw/main/assets/header.png)
+
 
 I am a recent graduate with a degree in Software Engineering, and looking for a suitable position to utilize my knowledge and skills to the
 maximum level with agile mindset and business oriented.

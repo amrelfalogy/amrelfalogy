@@ -105,3 +105,22 @@ AI system + Angular web app + hardware perfume machine.
 📧 [Email](mailto:amrelfalogy@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/amrelfalogy)
 
+---
+
+---
+
+# 📊 GitHub Overview  
+
+### 🔥 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrelfalogy&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🏆 GitHub Trophy (No Weakness Shown)  
+![Trophy](https://github-profile-trophy.vercel.app/?username=amrelfalogy&theme=algolia&no-frame=true&no-bg=true&margin-w=15)
+
+### 👁️ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=amrelfalogy&style=flat-square&color=blue)
+
+### 🌱 Contribution Graph (Activity Shape Only)  
+![Snake animation](https://raw.githubusercontent.com/amrelfalogy/amrelfalogy/output/github-contribution-grid-snake.svg)
+
+

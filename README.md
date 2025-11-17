@@ -1,4 +1,4 @@
-<img src="your-banner.png" alt="Amr Elfalogy Banner" width="100%" />
+<img src="WhatsApp Image 2025-11-17 at 7.42.30 AM.jpeg" alt="Amr Elfalogy Banner" width="100%" />
 
 # 👋 Hi, I'm Amr Elfalogy  
 ### 🚀 Frontend Developer (Angular)
@@ -104,7 +104,7 @@ AI system + Angular web app + hardware perfume machine.
 
 # 📬 Contact Me  
 📧 **Email:** amrelfalogy@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/amr-ashraf-ab72211b3  
+🔗 **LinkedIn:** linkedin.com/in/amrelfalogy  
 
 ---
 

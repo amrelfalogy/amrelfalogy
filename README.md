@@ -10,7 +10,6 @@ I focus on clean architecture, reusable components, performance optimization, an
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-ashraf-ab72211b3)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrelfalogy)
 
 ---
 
@@ -103,11 +102,6 @@ AI system + Angular web app + hardware perfume machine.
 ---
 
 # 📬 Contact Me  
-📧 **Email:** amrelfalogy@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/amrelfalogy  
+📧 [Email](mailto:amrelfalogy@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/amrelfalogy)
 
----
-
-# 📝 Note  
-I regularly update my repositories with new Angular components, dashboards, and full-stack projects.  
-Feel free to explore or reach out for collaboration!
